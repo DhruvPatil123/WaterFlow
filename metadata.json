@@ -1,0 +1,6 @@
+{
+  "name": "WaterFlow",
+  "description": "An interactive, fluid-powered AI visual deck and landing page generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
